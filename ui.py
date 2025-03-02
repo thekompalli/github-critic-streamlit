@@ -99,7 +99,7 @@ st.markdown("""
 
 # Title and description
 st.title("GitHub Critic - powered by Claude 3.7 Sonnet")
-st.markdown("ILoveYouAmmlu...Mmuah!")
+st.markdown("Analyze GitHub repositories and get Claude's code critiques.")
 
 # Initialize session state
 if 'job_id' not in st.session_state:
