@@ -21,7 +21,7 @@ st.set_page_config(
 )
 
 # Define API URLs
-API_BASE_URL = "http://localhost:8000/api"
+API_BASE_URL = "https://github-critic-fastapi.onrender.com/api"
 REPO_STRUCTURE_URL = f"{API_BASE_URL}/repositories/structure"
 AUTO_ROAST_URL = f"{API_BASE_URL}/repositories/auto-roast"
 DIRECTORY_EXPLORE_URL = f"{API_BASE_URL}/repositories/explore"
