@@ -98,7 +98,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and description
-st.title("GitHub Critic - powered by Claude 3.7 Sonnet")
+st.title("GitHub Critic - powered by EdenAI")
 st.markdown("Analyze GitHub repositories and get Claude's code critiques.")
 
 # Initialize session state
